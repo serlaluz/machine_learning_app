@@ -9,7 +9,7 @@ I've used Google Collab notebook for the script and MIT App Inventor interface t
 3. titanic_mobile_app.aia [Used as a protoype for MIT APP Invent]
 4. titanic_mobile_app.py [python script, can use the notebook above]
 
-DEMO VIDEO https://www.linkedin.com/posts/activity-6680122615513911296-8xOz
+**DEMO VIDEO** https://www.linkedin.com/posts/activity-6680122615513911296-8xOz
 
 ## Process
 - [ ] Import Data
