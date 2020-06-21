@@ -1,5 +1,5 @@
 # machine_learning_app
-Mobile App To Determine Survivability on Titanic using RandomForestClassifier
+Mobile App To Determine Survivability on Titanic using *RandomForestClassifier*
 
 This is a demonstration on how to build a mobile app based ML model. I've changed the classifier model to RandomForestClassifier.
 
